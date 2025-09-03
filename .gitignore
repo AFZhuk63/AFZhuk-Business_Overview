@@ -1,0 +1,21 @@
+# Системные файлы macOS и Windows
+.DS_Store
+Thumbs.db
+
+# Временные файлы редакторов
+*.swp
+*.bak
+*.tmp
+
+# Личные заметки и черновики (если не публикуются)
+notes/
+drafts/
+
+# Python (если будут скрипты)
+__pycache__/
+*.pyc
+
+# Office (если не хочешь публиковать исходные .docx/.pptx)
+#*.docx
+#*.pptx
+#*.xlsx
