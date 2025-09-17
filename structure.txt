@@ -1,0 +1,25 @@
+AFZhuk_Wikipedia/
+├── MagicWorld_Complex/
+│   ├── Contracts/
+│   ├── Industrial_Projects/
+│   │   └── KNPZ/
+│   │       ├── Business_plan/
+│   │       ├── Contracts/
+│   │       └── Master_plan/
+│   ├── Master_plan/
+│   │   ├── Contracts/
+│   │   ├── Photos/
+│   │   └── project_documentation/
+│   ├── Planning_Documents/
+│   │   ├── Amusement_and_recreation_park/
+│   │   ├── EcoSettlement/
+│   │   │   ├── Kardasch/
+│   │   │   └── Tsmakova_poliyana/
+│   │   ├── Olde_River_Golf_Resort/
+│   │   │   ├── Contracts/
+│   │   │   └── Photos/
+│   │   └── Urban_development/
+│   ├── Presentations/
+│   └── Videos/
+├── Personal_Profile/
+├── Print_three_project.py
