@@ -34,7 +34,7 @@ I believe great healthcare software begins with architecture—not features.
 
 ### Engineering Trust Through Architecture.
 
-https://github.com/AFZhuk63/ Repository (Private)
+https://github.com/AFZhuk63/ Repository Hippocrates Global (Private)
 
 https://github.com/AFZhuk63/AFZhuk-Business_Overview/blob/main/Personal_Profile/LinkedIn_About.md
 
