@@ -435,9 +435,9 @@ importance.
 
 The company's participation in this competition became one of the most notable milestones in its 
 engineering history and received coverage in leading Russian business media.
-https://www.interfax-russia.ru/realty/news/pravo-na-rekonstrukciyu-varshavskogo-i-kashirskogo-shosse-stolicy-poluchili-ingeokom-i-arks-gazeta
-https://iz.ru/news/505774
-https://www.vedomosti.ru/realty/articles/2011/11/14/podryady_na_vylet
+- https://www.interfax-russia.ru/realty/news/pravo-na-rekonstrukciyu-varshavskogo-i-kashirskogo-shosse-stolicy-poluchili-ingeokom-i-arks-gazeta
+- https://iz.ru/news/505774
+- https://www.vedomosti.ru/realty/articles/2011/11/14/podryady_na_vylet
 
 ---
 

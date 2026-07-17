@@ -475,8 +475,8 @@ ___
   https://iz.ru/news/505774
 
 - **Интерфакс-Недвижимость** — *Публикация о результатах конкурсов на реконструкцию Варшавского и Каширского шоссе.*  
-  https://www.interfax-russia.ru/realty/news/pravo-na-rekonstrukciyu-varshavskogo-i-kashirskogo-shosse-stolicy-poluchili-ingeokom-i-arks-gazeta
-  https://www.vedomosti.ru/realty/articles/2011/11/14/podryady_na_vylet
+- https://www.interfax-russia.ru/realty/news/pravo-na-rekonstrukciyu-varshavskogo-i-kashirskogo-shosse-stolicy-poluchili-ingeokom-i-arks-gazeta
+- https://www.vedomosti.ru/realty/articles/2011/11/14/podryady_na_vylet
 
 # Опыт управления инженерными проектами
 
