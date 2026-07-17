@@ -1,41 +1,101 @@
-## Founder | Solutions Architect | Systems Engineer | 
-## Hippocrates - AI-powered international healthcare platform engineered around the patient.
+## Founder | Solution Architect | Systems Engineer
 
-Responsible for defining the platform architecture, engineering strategy, product vision, and long-term technology roadmap.
+## Hippocrates Global
 
-Designed a modular healthcare ecosystem based on Domain-Driven Design (DDD), cloud-native engineering, secure-by-design principles, and a plug-in architecture that enables independent evolution of clinical products and services.
+### 2025 – Present
 
-Building Hippocrates in Public through transparent engineering documentation, architectural journals, and continuous technical evolution.
+Hippocrates is an AI-powered international digital healthcare platform designed to transform traditional medical information systems into a scalable, patient-centered healthcare ecosystem.
 
-### Core Platform
+As Founder and Solution Architect, I lead the platform's long-term vision, architecture, engineering strategy, and product evolution—from core system design to advanced AI-enabled healthcare services.
 
-- Patient Management
-- Scheduling & Appointment Booking
-- Medical Record Management
-- Telemedicine
-- Analytics
+Key Responsibilities
+Defined the long-term architectural vision for a cloud-native healthcare platform.
+Designed a modular Domain-Driven Design (DDD) architecture with clearly separated business domains.
+Developed a secure multi-tenant SaaS architecture supporting independent healthcare organizations.
+Designed the platform's extensible product ecosystem, enabling specialized medical products to evolve independently around a stable core.
+Led the engineering strategy for scalability, interoperability, and long-term maintainability.
+Established engineering standards, documentation practices, and architecture governance.
+Platform Areas
+Electronic Medical Records (EMR)
+Patient Management
+Appointment & Scheduling
+
+Telemedicine
+- Medical Documentation Engine
+- Clinical Analytics
+- AI-Ready Clinical Services
+- Internationalization & Localization
 - Investor Portal
-- Internationalization
-- Multi-tenant SaaS Architecture
-- AI-ready Clinical Services
+- Enterprise Administration
+- Research & Innovation
 
-### Extensible Product Ecosystem
+Leading the long-term development of Human Restoration Technologies, including:
 
-- Laboratory
-- Oncology
-- Remote Check
-- Prosthetics (Experimental)
-- Future Healthcare Products
+- Intelligent Prosthetics
+- Peripheral Neural Interfaces
+- Bone Regeneration Modeling
+- Osteointegration Analytics
+- AI-Assisted Clinical Decision Support
+- Future Human-Machine Interaction Technologies
+- Engineering Principles
 
+### The platform is built around several core engineering principles:
 
->The project is deployed on AWS and follows a transparent Build in Public approach. Through the Hippocrates Engineering Journal I document architectural decisions, engineering trade-offs, development progress, and lessons learned while building an international healthcare platform from the ground up.
+- Architecture Before Features
+- Patient-First Design
+- Secure by Design
+- Build in Public
+- Engineering Transparency
+- Long-Term Platform Evolution
 
-I believe great healthcare software begins with architecture—not features.
+Technologies:
 
-### Engineering Trust Through Architecture.
+- Python 
+- Django 
+- PostgreSQL 
+- Docker 
+- Redis 
+- Celery 
+- Nginx 
+- AWS 
+- GitHub 
+- Domain-Driven Design (DDD) 
+- Multi-Tenant SaaS 
+- RBAC 
+- Internationalization (i18n) 
+- Cloud Architecture 
+- Healthcare Information Systems 
+- AI-Ready Platform Design
+- Documentation & Thought Leadership
 
-https://github.com/AFZhuk63/ Repository Hippocrates Global (Private)
+Author of the Hippocrates White Paper Series and Engineering Journal, documenting the architectural philosophy, engineering decisions, and long-term vision of the platform. The project follows a Build in Public approach, emphasizing transparency, engineering discipline, and continuous knowledge sharing.
 
+### LinkedIn Skills
+- Solution Architecture
+- Software Architecture
+- Systems Engineering
+- Healthcare IT
+- Digital Health
+- Artificial Intelligence (AI)
+- Cloud Computing
+- SaaS
+- Enterprise Architecture
+- Domain-Driven Design (DDD)
+- Product Strategy
+- Technical Leadership
+- Python
+- Django
+- PostgreSQL
+- Docker
+- AWS
+- System Design
+- Platform Engineering
+- Technical Documentation
+
+### Repository Hippocrates Global (Private)
+https://github.com/AFZhuk63/ 
+
+### Repository AFZhuk-Business_Overview (Public)
 https://github.com/AFZhuk63/AFZhuk-Business_Overview/blob/main/Personal_Profile/LinkedIn_About.md
 
 The Hippocrates platform is actively developed in a private repository.
