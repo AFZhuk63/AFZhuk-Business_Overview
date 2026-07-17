@@ -437,6 +437,7 @@ The company's participation in this competition became one of the most notable m
 engineering history and received coverage in leading Russian business media.
 https://www.interfax-russia.ru/realty/news/pravo-na-rekonstrukciyu-varshavskogo-i-kashirskogo-shosse-stolicy-poluchili-ingeokom-i-arks-gazeta
 https://iz.ru/news/505774
+https://www.vedomosti.ru/realty/articles/2011/11/14/podryady_na_vylet
 
 ---
 
@@ -547,6 +548,8 @@ The activities of **Globus LLC** and its major investment and infrastructure pro
 
 - **Interfax Real Estate** — *Results of the Warsaw and Kashirskoye Highway Reconstruction Tenders*  
   https://www.interfax-russia.ru/realty/news/pravo-na-rekonstrukciyu-varshavskogo-i-kashirskogo-shosse-stolicy-poluchili-ingeokom-i-arks-gazeta
+  https://www.vedomosti.ru/realty/articles/2011/11/14/podryady_na_vylet
+
 # Engineering Management Experience
 
 During this period **Anatoliy Zhuk** significantly expanded his executive experience in managing multidisciplinary engineering organizations responsible for simultaneous implementation of investment, construction, and infrastructure projects.
